@@ -13,12 +13,12 @@ The dataset used in this project was collected from Kaggle.
 The dataset contains applicant financial and demographic information used to predict loan approval status.
 
 # Features Description
-- **persion_age** : Age of persion 
-- **persion_gender** : Gender of persion 
-- **persion_education** : Education or degree  
-- **persion_income** : Annual Income 
-- **persion_emp_exp** : total employment years 
-- **persion_home_ownership** : status (rent,owner,mortgage)
+- **person_age** : Age of person 
+- **person_gender** : Gender of person 
+- **person_education** : Education or degree  
+- **person_income** : Annual Income 
+- **person_emp_exp** : total employment years 
+- **person_home_ownership** : status (rent,owner,mortgage)
 - **loan_amnt** : Amount of loan requested 
 - **loan_intent** : Purpose of the loan 
 - **loan_percent_income** : The percent of loan amount based on annual income 
